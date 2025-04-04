@@ -25,13 +25,6 @@ Também possuo experiência em desenvolvimento web com HTML e CSS, além de conh
 ### Linguagens mais utilizadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fezao100&layout=compact&bg_color=000&border_color=00CCCC&title_color=fff&text_color=FFF)
 
-
-## Projetos pessoais
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Fezao100&repo=Pokedex_PokeAPI&bg_color=000&border_color=00CCCC&show_icons=true&icon_color=00CCCC&title_color=fff&text_color=FFF)](https://github.com/Fezao100/Pokedex_PokeAPI)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Fezao100&repo=Portfolio&bg_color=000&border_color=00CCCC&show_icons=true&icon_color=00CCCC&title_color=fff&text_color=FFF)](https://github.com/Fezao100/Portfolio)
-
 ## Cursos e certificados
 
 - Formação JavaScript Developer | DIO - 2025
